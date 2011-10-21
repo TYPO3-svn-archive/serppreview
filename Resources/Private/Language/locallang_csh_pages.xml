@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Context Sensitive Help (CSH) for table pages</description>
+		<type>CSH</type>
+		<csh_table>pages</csh_table>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_serppreview_preview.description">Fill the Description field and save the record to see the description in this preview of a Google Search Result Page.</label>
+			<label index="tx_serppreview_preview.details"><![CDATA[
+				<b>What is the effect of the meta description?</b><br>
+				The meta description does not directly affect the ranking of your page but can be used by Google for the preview texts shown in their search result pages.<br>
+				<b>What makes a good meta description?</b><br>
+				Keep in mind that the meta description might be the first contact of a user to your site, and as we know: The first impression is awfully important.<br>
+				Tell the user what can be found on this particular page and attract him/her to click. Compare your description to those of your competitors, be better, but don't make false promises.<br>
+				Use full sentences - a list of keywords looks spammy and won't bring you any advantage.<br>
+				<b>What length should the meta description have?</b><br>
+				Google crops descriptions that do not fit into the two lines of space. The exact amount of characters after which Google crops your description varies. This extension assumes 155 chars to give you a rough idea. Please check what your snippet looks in reality from time to time.<br>
+				<b>Why isn't Google using the meta description I entered?</b><br>
+				Search engines need some time to refresh the data in their indeces. It might take a few hours up to weeks until your changes take effect.<br>
+				Also for every Search Query Google decides whether it will display your meta description or generate a text snippet from your page content that might fit better to what the user searches. Another source for the snippets might be the DMOZ project, if your website is listed there.
+			]]></label>
+		</languageKey>
+	</data>
+</T3locallang>
